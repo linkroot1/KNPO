@@ -1,0 +1,7 @@
+﻿  WidthFormatting.cpp
+  functions.cpp
+H:\Качество и надёжность (написать ТЗ)\WidthFormatting\WidthFormatting\functions.cpp(22,21): warning C4101: beginning_line: неиспользованная локальная переменная
+H:\Качество и надёжность (написать ТЗ)\WidthFormatting\WidthFormatting\functions.cpp(23,10): warning C4101: c: неиспользованная локальная переменная
+H:\Качество и надёжность (написать ТЗ)\WidthFormatting\WidthFormatting\functions.cpp(17,23): warning C4101: i: неиспользованная локальная переменная
+  Создание кода...
+  WidthFormatting.vcxproj -> H:\Качество и надёжность (написать ТЗ)\WidthFormatting\Debug\WidthFormatting.exe
